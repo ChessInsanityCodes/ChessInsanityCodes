@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChessInsanityCodes
-- 👀 I’m interested in Coding/Developing, Chess, Studying, Working out, and spending time outside!
+- 👀 I’m interested in coding/developing, Chess, studying, working out, and spending time outside!
 - 🌱 I’m currently self-learning Node.js/JavaScript and some Python
 
 <!---
